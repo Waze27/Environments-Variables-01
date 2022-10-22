@@ -1,0 +1,8 @@
+server:
+  port: 4500
+
+authCode:
+  customVar: xyz458
+
+devName:
+  customVar: Mirko
